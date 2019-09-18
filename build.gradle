@@ -59,7 +59,7 @@ buildscript {
           'noOp': "com.squareup.leakcanary:leakcanary-android-no-op:${versions.leakCanary}",
       ],
       'rx': [
-          'core': 'io.reactivex:rxjava:1.3.0',
+          'core': 'io.reactivex:rxjava:1.3.8',
           'android': 'io.reactivex:rxandroid:1.2.1',
           'preferences': 'com.f2prateek.rx.preferences:rx-preferences:1.0.2',
       ],
