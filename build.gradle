@@ -48,7 +48,7 @@ buildscript {
           'runtime': "com.jakewharton:butterknife:${versions.butterKnife}",
           'compiler': "com.jakewharton:butterknife-compiler:${versions.butterKnife}",
       ],
-      'timber': 'com.jakewharton.timber:timber:4.5.1',
+      'timber': 'com.jakewharton.timber:timber:4.7.1',
       'byteUnits': 'com.jakewharton.byteunits:byteunits:0.9.1',
       'rxbinding': 'com.jakewharton.rxbinding:rxbinding:1.0.1',
       'madge': 'com.jakewharton.madge:madge:1.1.4',
