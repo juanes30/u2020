@@ -64,7 +64,7 @@ buildscript {
           'preferences': 'com.f2prateek.rx.preferences:rx-preferences:1.0.2',
       ],
       'threeTenAbp': 'com.jakewharton.threetenabp:threetenabp:1.0.5',
-      'telescope': 'com.mattprecious.telescope:telescope:2.1.0',
+      'telescope': 'com.mattprecious.telescope:telescope:2.2.0',
       'junit': 'junit:junit:4.12',
       'espresso': [
           'core': "com.android.support.test.espresso:espresso-core:${versions.espresso}",
