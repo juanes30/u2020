@@ -63,7 +63,7 @@ buildscript {
           'android': 'io.reactivex:rxandroid:1.2.1',
           'preferences': 'com.f2prateek.rx.preferences:rx-preferences:1.0.2',
       ],
-      'threeTenAbp': 'com.jakewharton.threetenabp:threetenabp:1.0.5',
+      'threeTenAbp': 'com.jakewharton.threetenabp:threetenabp:1.2.4',
       'telescope': 'com.mattprecious.telescope:telescope:2.1.0',
       'junit': 'junit:junit:4.12',
       'espresso': [
