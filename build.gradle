@@ -34,7 +34,7 @@ buildscript {
           'core': "com.squareup.okhttp3:okhttp:${versions.okhttp}",
           'logger': "com.squareup.okhttp3:logging-interceptor:${versions.okhttp}",
       ],
-      'okio': 'com.squareup.okio:okio:1.13.0',
+      'okio': 'com.squareup.okio:okio:2.9.0',
       'picasso': 'com.squareup.picasso:picasso:2.5.2',
       'picassoOkHttpDownloader': 'com.jakewharton.picasso:picasso2-okhttp3-downloader:1.1.0',
       'retrofit': [
