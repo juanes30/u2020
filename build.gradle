@@ -75,7 +75,7 @@ buildscript {
           'rules': "com.android.support.test:rules:${versions.astl}",
       ],
       'spoon': 'com.squareup.spoon:spoon-client:1.7.1',
-      'truth': 'com.google.truth:truth:0.34',
+      'truth': 'com.google.truth:truth:1.1',
       'errorProneAnnotations': "com.google.errorprone:error_prone_annotations:${versions.errorProne}",
   ]
 
