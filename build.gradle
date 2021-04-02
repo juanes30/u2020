@@ -43,7 +43,7 @@ buildscript {
           'moshi': "com.squareup.retrofit2:converter-moshi:${versions.retrofit}",
           'rxjava': "com.squareup.retrofit2:adapter-rxjava:${versions.retrofit}",
       ],
-      'moshi': 'com.squareup.moshi:moshi:1.5.0',
+      'moshi': 'com.squareup.moshi:moshi:1.12.0',
       'butterKnife': [
           'runtime': "com.jakewharton:butterknife:${versions.butterKnife}",
           'compiler': "com.jakewharton:butterknife-compiler:${versions.butterKnife}",
